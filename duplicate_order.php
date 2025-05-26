@@ -1,6 +1,6 @@
 <?php
 /**
- * Duplicate an order for Magento 2.4.5-p10.
+ * Duplicate an order for Magento 2.4.x.
  *
  * Usage: php duplicate_order.php <original_increment_id>
  *
