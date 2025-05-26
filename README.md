@@ -38,5 +38,5 @@ Why would you ever need to duplicate an order in Magento? A few weeks ago I woul
 
 ## Usage: php duplicate_order.php <original_increment_id>
  
-Author: Sean Breeden
-E-mail: seanbreeden@gmail.com
+**Author:** Sean Breeden<br>
+**E-mail:** <seanbreeden@gmail.com>
